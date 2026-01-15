@@ -1,0 +1,7 @@
+.env
+.DS_Store
+*.zip
+Airtable/
+target/
+.vscode/
+.idea/
